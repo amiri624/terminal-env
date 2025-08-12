@@ -4,10 +4,6 @@
 
 
 
-
-
-
-
 # terminal-env
 Simple script for setting up my terminal environment on Ubuntu
 This repo is based on env
