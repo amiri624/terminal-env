@@ -16,7 +16,6 @@ Just clone the repo and run the following command:
 ```
 Some useful commands:
 Open directory in VIM: vim .
-
 Open file: press enter
 
 Open file vertically: s
